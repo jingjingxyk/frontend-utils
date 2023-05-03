@@ -3,7 +3,7 @@
 ## download library
 ```shell
 
-sh  download-third_party-library.sh
+sh  download-thirdparty-library.sh
 
 ```
 
